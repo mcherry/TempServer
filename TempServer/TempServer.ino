@@ -1,5 +1,6 @@
 // TempServer 0.1
 // Written by Mike Cherry <mcherry@inditech.org>
+// Uses code examples from Ethernet library and various sources online
 //
 // Free for any use
 //
