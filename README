@@ -1,0 +1,7 @@
+Arduino web server that displays the current time (via NTP) and temperature (from a DS18B20) in a parsable format for logging or graphing.
+
+Uses the Arduino Time Library from http://arduino.cc/playground/Code/Time and the OneWire library from http://www.arduino.cc/playground/Learning/OneWire
+
+Tested on a Arduino Uno R3 w/Ethernet Shield and IDE 1.0.1. Email info@inditech.org for more information.
+
+
